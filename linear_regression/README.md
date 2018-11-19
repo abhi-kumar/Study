@@ -37,10 +37,13 @@ Sources - [Source 1](https://www.dezyre.com/data-science-in-r-programming-tutori
 
 ### 5. Example - Implementation details:
 - Data is spread like a sine curve for better visualization
-- The linear model return 
+- The simple linear model return (used scipy library)
   - slope of line
   - intercept of regression line
   - correlation coefficient
   - standard error of estimated gradient.
 - Another implementation explain how is it done from scratch (Mathematical details added as comments in the file). 
+- The third example, uses multiple variables on which the prediction is linearly dependent. 
+  - The example function details can be found in the code itself.
+  - Used Scikit-learn library
 
