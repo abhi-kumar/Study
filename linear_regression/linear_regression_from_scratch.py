@@ -6,14 +6,17 @@ np.random.seed(3)
 x = np.linspace(-np.pi, np.pi, 201)
 y = np.sin(x)
 
-#slope = sum(
-#			(x(i) - mean(x)) * (y(i) - mean(y))
-#		) 
-#		/ sum( 
-#			(x(i) - mean(x))^2
-#		)
-
-#intercept = mean(y) - slope * mean(x)
+'''
+y_predicted = slope * x_input + intercept
+slope = sum(
+			(x(i) - mean(x)) * (y(i) - mean(y))
+		) 
+		/ 
+		sum( 
+			(x(i) - mean(x))^2
+		)
+intercept = mean(y) - slope * mean(x)
+'''
 
 print x.shape
 
