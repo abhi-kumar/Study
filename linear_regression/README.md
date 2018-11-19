@@ -42,4 +42,5 @@ Sources - [Source 1](https://www.dezyre.com/data-science-in-r-programming-tutori
   - intercept of regression line
   - correlation coefficient
   - standard error of estimated gradient.
+- Another implementation explain how is it done from scratch. 
 
