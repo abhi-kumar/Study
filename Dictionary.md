@@ -1,4 +1,21 @@
-# List of terms that appear in this tutorial
+## A general definition list (Adopted from Nvidia Research)
+
+1. Artificial Neural Networks - Processing devices that are loosely modelled after the neuronal structure of human brain.
+
+2. Big Data - Describes a large volume of data, bith structured and unstructured, than inundates a business on a day-to-day basis.
+
+3. Convolutional Neural Networks - Comprised of one or more convolutional layers and then followed by one or more fully connected layers in a standard multilayer neural network
+
+4. Deep Learning - Form of machine learning that enables computers to learn from experience and understand the world in terms of heirarchy of conecpts.
+
+5. 
+
+
+
+
+
+
+## List of terms that appear in this tutorial
 
 ### Note: The terms are discussed in details in either of the tutorial folders. Here, their quick definitions are present.
 
@@ -13,4 +30,7 @@
 
 5. Recall - It measures how good you find all the positives. For example, we can find 80% of the possible positive cases in our top K predictions. It answers what proportion of actual positives was identified correctly?
 
-4. mAP - Mean Average Precision. mAP is the metric to measure the accuracy of object detectors.
+6. mAP - Mean Average Precision. mAP is the metric to measure the accuracy of object detectors.
+
+
+
