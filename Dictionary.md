@@ -8,7 +8,37 @@
 
 4. Deep Learning - Form of machine learning that enables computers to learn from experience and understand the world in terms of heirarchy of conecpts.
 
-5. 
+5. Embedding - It is a representation of input, or an encoding. 
+
+6. Feedforward Network - Allows signals to travel one way only, from input to output. There are no feedback loops. 
+
+7. Generative adversarial networks - A tyoe of algorithms used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum gamr framework.
+
+8. Highway networks - They are an architecture to let information flow unhindered across several rnn layers on so called information highways.
+
+9. Initialization - Training deep learning models are sufficiently difficult tasks. Most algorithmsare stringly affected by the choice of initialization. The initial point can determine whether the algorithm converges at all, with some initial points being so unstable that the algorithm encounters numerical difficulties and fails together.
+
+10. Jitter - An artificial noise added to the inputs during training, used as another method for regularization and improving generalization of a neural network.
+
+11. K-means algorithms - It is a type of unsupervised learning, which is used when you have unlabeled data. The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K.
+
+12. Loss function - For each prediction, there in an associated number which is the loss. For a true prediction, the loss will be small and for a totally wrong prediction it will be high.
+
+13. Multi-layer perceptron - It is a feedforward neural network with mulitple fully connected layers that use non-linear activation functions to deal with the data which is not linearly separable. 
+
+14. Natural language processing - It is the comprehension by computers of the structure and meaning of human language, allowing users to interact with the computer using natural sentenses.
+
+15. One-shot learning - It is when an algorithm learns from one or a few number of training examples, contrast to traditional machine learning models which use thousands of such examples.
+
+16. Pooling - Type of layer commonly founds in CNNs, which integrates information from neurons with nearby receptive fields.
+
+17. Q-Networks - A novel artifact agent, termed a deep Q-Network, that can learn succesful policies directly from high-dimensional sensory inputs using end-to-end reinforcement learning.
+
+18. Reinforcement learning - A branch of machine learning that is goal oriented, i.e., it's algorithms have as their objective to maximize a reward, often over the course of many decisions. 
+
+19. Variational encoder - It is a directed model that uses learned approximate inference and can be trained purely with gradient based methods.
+
+20. Zer-shot learning - An extreme form of transfer learning, where no labeled examples are given at all. 
 
 
 
